@@ -11,22 +11,25 @@ ___
 
 <img width="600" height="auto" src="assets/Bighead.jpg" alt="Silicon Valley Bighead"/>
 
+To learn with this repo, you should know the basics of a programming language you like. If you are completely new to programming, I recommend learning the basics of a language first. Under programming languages, I've listed a few [videos](big-sheet/programming-languages) for learning the basics of Python and Java
+
+
 #### Required:
 
-* A little experience with coding (variables, loops, methods/functions, etc)
+* Basics of coding (variables, operators, conditions, loops, methods/functions, etc)
 * Patience
-* Time
+* Time 
 
 ___
 
 ## Topics
 
 ### Programming Languages
-  - Python
-  - Java
+  - [Python](big-sheet/programming-languages)
+  - [Java](big-sheet/programming-languages)
 
 ### Data Structures and Algorithms
-  - Big-O
-  - Data Structures
-  - Algorithms
+  - [Big-O](big-sheet/dsa/big-o)
+  - [Data Structures](big-sheet/dsa/data-structures)
+  - [Algorithms](big-sheet/dsa/algorithms)
 
