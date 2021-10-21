@@ -29,7 +29,7 @@ ___
   - [Java](https://github.com/Louis3797/big-sheet/tree/main/programming-languages)
 
 ### Data Structures and Algorithms
-  - [Big-O / Algorithmic complexity](https://github.com/Louis3797/big-sheet/tree/main/dsa/big-o)
+  - [Algorithmic complexity / Big-O / Asymptotic analysis](https://github.com/Louis3797/big-sheet/tree/main/dsa/big-o)
   - [Data Structures](https://github.com/Louis3797/big-sheet/tree/main/dsa/data-structures)
   - [Algorithms](https://github.com/Louis3797/big-sheet/tree/main/dsa/algorithms)
 
