@@ -25,11 +25,11 @@ ___
 ## Topics
 
 ### Programming Languages
-  - [Python](https://github.com/Louis3797/big-sheet/programming-languages)
-  - [Java](https://github.com/Louis3797/big-sheet/programming-languages)
+  - [Python](https://github.com/Louis3797/big-sheet/tree/main/programming-languages)
+  - [Java](https://github.com/Louis3797/big-sheet/tree/main/programming-languages)
 
 ### Data Structures and Algorithms
-  - [Big-O](https://github.com/Louis3797/big-sheet/dsa/big-o)
-  - [Data Structures](https://github.com/Louis3797/big-sheet/dsa/data-structures)
-  - [Algorithms](https://github.com/Louis3797/big-sheet/dsa/algorithms)
+  - [Big-O](https://github.com/Louis3797/big-sheet/tree/main/dsa/big-o)
+  - [Data Structures](https://github.com/Louis3797/big-sheet/tree/main/dsa/data-structures)
+  - [Algorithms](https://github.com/Louis3797/big-sheet/tree/main/dsa/algorithms)
 
